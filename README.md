@@ -1,1 +1,1 @@
-# NewRepo
+# Mock Equipment API
